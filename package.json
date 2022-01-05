@@ -1,0 +1,15 @@
+{
+  "dependencies": {
+    "chalk": "^4.1.1"
+  },
+  "type": "module",
+  "scripts": {
+    "start": "node ."
+  },
+  "name": "hackers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {}
+}
